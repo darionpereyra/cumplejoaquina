@@ -1,0 +1,40 @@
+body {
+
+}
+
+
+.fondo-flores {
+	width: 45%;
+	height: 100%;
+}
+.fondo-floresinv {
+	width: 45%;
+	height: 100%;
+	transform: scaleX(-1.0);
+	float: right;
+}
+.tres-años {
+	color: rgb(152,84,194);
+	border-radius: 10px;
+	border-color: black;
+	font-family: cursive, sans-serif;
+	font: fantasy;
+	font-weight: bolder;
+	font-size: 400%;
+	text-align: center;
+	transform: translate(00px, -320px);
+}
+.info {
+	font-family: cursive, sans-serif;
+	font: fantasy;
+	font-weight: bolder;
+	letter-spacing: 10px;
+	font-size: 250%;
+	text-align: center;
+	transform: translate(00px, -300px);
+}	
+.mapa {
+	display: flex;
+	justify-content: center;
+	transform: translate(0px, -150px);
+}
